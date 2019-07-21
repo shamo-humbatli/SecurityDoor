@@ -1,0 +1,6 @@
+M:\Programming\C#\MyLibs\SecurityDoor\SecurityDoor\SecurityDoor\obj\Debug\SecurityDoor.csproj.CoreCompileInputs.cache
+M:\Programming\C#\MyLibs\SecurityDoor\SecurityDoor\SecurityDoor\bin\Debug\SecurityDoor.dll
+M:\Programming\C#\MyLibs\SecurityDoor\SecurityDoor\SecurityDoor\bin\Debug\SecurityDoor.pdb
+M:\Programming\C#\MyLibs\SecurityDoor\SecurityDoor\SecurityDoor\bin\Debug\CredentialManagement.dll
+M:\Programming\C#\MyLibs\SecurityDoor\SecurityDoor\SecurityDoor\obj\Debug\SecurityDoor.dll
+M:\Programming\C#\MyLibs\SecurityDoor\SecurityDoor\SecurityDoor\obj\Debug\SecurityDoor.pdb
